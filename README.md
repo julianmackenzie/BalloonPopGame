@@ -9,7 +9,7 @@ communication on the instructor's part and a project partner who was AWOL, I was
 
 A lot of the framework was provided, the majority of my work was in bpop.c and bpgame.c. The complicated nature of it was threefold:
 1. Working in C, which we had done very little of up to this point
-2. Correctly implementing a method of navigating the linked lists, marking adjacent "balloons" in all four directions to be popped
+2. Correctly implementing a method of navigating the matrices, marking adjacent "balloons" in all four directions to be popped
   without overcounting (essentially a depth-first search, if I remember correctly)
 3. Puzzling through the creation of the makefile, as the provided file was not functional, something that wasn't addressed by
   instructors until the project was nearly due (I mean it, the communication in that class was abysmal.)
